@@ -111,6 +111,12 @@ function check() {
 	<h2 style="text-align: center;">예약번호 <%=in_resvno %>로 조회된 결과가 없습니다.</h2>
 <%} %>
 ```
+### 조회성공 화면
+![image](https://github.com/hwan06/vaccine_site/assets/114748934/1844dcf1-84b3-4d7c-bf23-f060b76e83aa)
+
+### 조회실패 화면
+![image](https://github.com/hwan06/vaccine_site/assets/114748934/8f970275-a5a7-4e09-bfcd-1ed47cd44aac)
+
 ## 백신예약현황 화면
 ![image](https://github.com/hwan06/vaccine_site/assets/114748934/b07c9f36-5a2e-4b40-9dff-2f17f9694866)   
 ### 외부조인과 nvl을 이용하여 데이터값이 0인 데이터까지 출력하는 SQL코드
