@@ -112,7 +112,7 @@ function check() {
 <%} %>
 ```
 ### 조회성공 화면
-![image](https://github.com/hwan06/vaccine_site/assets/114748934/1844dcf1-84b3-4d7c-bf23-f060b76e83aa)
+![image](https://github.com/hwan06/vaccine_site/assets/114748934/ab6be1cc-3e68-45bf-b575-132f200f84e8)
 
 ### 조회실패 화면
 ![image](https://github.com/hwan06/vaccine_site/assets/114748934/8f970275-a5a7-4e09-bfcd-1ed47cd44aac)
